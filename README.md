@@ -14,4 +14,10 @@ Sarah Ooi\
 Lohsshini Sethu Pathy\
 Vishakha
 
+## Ongoing projects
+### In-host modelling
+### Inference on force of infection from serology data
+### Modelling dengue vaccination strategies in Singapore
+### Machine Learning methods for predicting disease dynamics
+
 
