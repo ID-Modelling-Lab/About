@@ -4,6 +4,8 @@ This is the official GitHub page for Infectious Disease Modelling Lab at SSHSPH,
 Hannah Clapham (PI)\
 Anet J.-N. Anelone \
 Abhishek Senapati\
+Kartika Saraswati\
+Lam Phung Khanh\
 Maxine Tan Wei-Qi\
 Yinning Chen\
 Chris Mercado\
