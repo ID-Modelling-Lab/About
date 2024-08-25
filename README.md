@@ -2,10 +2,9 @@
 This is the official GitHub page for Infectious Disease Modelling Lab at SSHSPH, NUS, Singapore.
 ## List of current group members:
 Hannah Clapham (PI)\
-Anet J.-N. Anelone \
+Lam Phung Khanh\
 Abhishek Senapati\
 Kartika Saraswati\
-Lam Phung Khanh\
 Maxine Tan Wei-Qi\
 Yinning Chen\
 Chris Mercado\
