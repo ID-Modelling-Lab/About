@@ -13,7 +13,7 @@ Shi Yile\
 Sylvia Gwee Xiao Wei\
 Lohsshini Sethu Pathy\
 Vishakha\
-Marina\
+Marina
 
 ## Ongoing projects
 ### In-host modelling
