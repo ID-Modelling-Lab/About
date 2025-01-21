@@ -9,11 +9,11 @@ Maxine Tan Wei-Qi\
 Yinning Chen\
 Chris Mercado\
 Ng Chong Kai\
-Shi Yile
+Shi Yile\
 Sylvia Gwee Xiao Wei\
-Sarah Ooi\
 Lohsshini Sethu Pathy\
-Vishakha
+Vishakha\
+Marina\
 
 ## Ongoing projects
 ### In-host modelling
